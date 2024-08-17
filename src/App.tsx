@@ -23,7 +23,7 @@ const theme: ThemeType = {
 
 function App() {
 
-    const nextEvent = "Women's 400m";
+    const nextEvent = "All events completed!";
 
     return (
     <Grommet
