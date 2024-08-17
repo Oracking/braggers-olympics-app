@@ -50,7 +50,7 @@ function App() {
                 <Tab title="Teams">
                     <Teams />
                     <Card style={{margin: "30px", marginTop: "15px", padding: "20px"}} >
-                        {nextEvent}
+                        Next Event: {nextEvent}
                     </Card>
                 </Tab>
                 <Tab title="Events">
@@ -59,7 +59,7 @@ function App() {
                 <Tab title="Individual">
                     <Individuals />
                     <Card style={{margin: "30px", marginTop: "15px", padding: "20px"}} >
-                        {nextEvent}
+                        Next Event: {nextEvent}
                     </Card>
                 </Tab>
             </Tabs>
