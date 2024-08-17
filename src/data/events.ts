@@ -63,6 +63,7 @@ export const events: Record<string, EventResults> = {
         ["Tolu", 14],
         ["Sam", 14],
         ["Dinam", 14],
+        ["Abena", 14],
         ["Keli", 10],
         ["Oracking", 10],
         ["Yolisa", 10],

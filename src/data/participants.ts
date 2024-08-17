@@ -31,7 +31,6 @@ const participants: Participant[] = [
     ["Blue", "Stephan"],
     ["Blue", "Tolu"],
     ["Blue", "Lekan"],
-    ["Blue", "Barbara"],
     ["Blue", "Dinam"],
     ["Blue", "Sadia"],
     ["Blue", "Abena"],
