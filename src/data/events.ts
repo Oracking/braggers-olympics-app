@@ -104,7 +104,7 @@ export const events: Record<string, EventResults> = {
     "Women's Shotput": [
         ["Lamide", 14],
         ["Petra", 14],
-        ["Sam", 6],
+        ["Samantha", 6],
         ["Simi", 2]
     ],
 
