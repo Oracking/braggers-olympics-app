@@ -61,9 +61,19 @@ export const events: Record<string, EventResults> = {
 
     "Mixed 4x100 Relay": [
         ["Tolu", 14],
+        ["Sam", 14],
+        ["Dinam", 14],
         ["Keli", 10],
+        ["Oracking", 10],
+        ["Yolisa", 10],
+        ["Seyike", 10],
+        ["Andy", 6],
+        ["Zenobia", 6],
+        ["Ewurafua", 6],
         ["Muktar", 6],
-        ["Kwaku", 2]
+        ["Kwaku", 2],
+        ["Adnan", 2],
+        ["Blessing", 2],
     ],
 
     "Lime and Spoon Men": [
