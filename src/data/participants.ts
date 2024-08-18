@@ -10,7 +10,6 @@ const participants: Participant[] = [
     ["Red", "Simi"],
     ["Red", "Samira"],
     ["Red", "Waithera"],
-    ["Red", "Isaac O"],
     ["Red", "Nami"],
 
     ["Yellow", "Ophelia"],
@@ -34,6 +33,7 @@ const participants: Participant[] = [
     ["Blue", "Dinam"],
     ["Blue", "Sadia"],
     ["Blue", "Abena"],
+    ["Blue", "Isaac O"],
 
     ["Green", "Zenobia"],
     ["Green", "Andy"],
